@@ -4,7 +4,7 @@ body{
 }
 header{
     height: 65px;
-    background-color: #7b1fa2;
+    background-color:hsl(231, 79%, 47%);
     color: white;
     display: flex;
     align-items: center;
